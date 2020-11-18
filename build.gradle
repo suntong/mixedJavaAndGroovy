@@ -2,7 +2,7 @@ apply plugin: 'groovy'
 version = 1.0
 
 repositories {
-    mavenCentral()
+    maven { url "https://jcenter.bintray.com"}
 }
 
 dependencies {
