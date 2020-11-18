@@ -1,4 +1,12 @@
 
+## Summary
+
+This is an example of how a project can be setup to use <code>Groovy</code> and <code>Java</code> interchangeably.
+I.e., one should be able to use a mixture of <code>Java</code> and <code>Groovy</code> classes and
+do things like extend <code>Groovy</code> classes from <code>Java</code> classes (and the other way round).
+
+It is taken directly from gradle-2.8 samples.
+
 ## Files
 
 ```
